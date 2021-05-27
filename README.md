@@ -9,7 +9,7 @@ The Dmponline tool allows you to write, review and share your data management pl
 Before starting the practical, make sure you have the following ready:
 
 * The [example scenario](https://github.com/elixir-luxembourg/DS-DM-training/blob/master/resources/DM-DP_RunningExample.pdf) for our workshop.
-* The URL [link](https://dmponline-elixir.lcsb.uni.lu/) for DmpOnline instance.
+* The URL [link](https://dmponline.elixir-luxembourg.org/) for DmpOnline instance.
 
 ## Step 1: Create your account
 
